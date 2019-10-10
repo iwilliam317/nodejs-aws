@@ -1,4 +1,8 @@
 # nodejs-bootstrap
+Simple NodeJS application that shows server's IP. 
+
+## Use cases
+Ideal for testing containers and checking traffic distribution with a load balancer
 
 ## Bootstrap EC2 instance
 Copy and paste in EC2 user data
