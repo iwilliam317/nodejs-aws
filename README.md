@@ -1,4 +1,4 @@
-# nodejs-bootstrap
+# nodejs-aws
 Simple NodeJS application that shows server's IP. 
 
 ## Use cases
