@@ -77,4 +77,3 @@ hooks:
     - location: scripts/application_start.sh
       timeout: 300
       runas: ubuntu
-      
