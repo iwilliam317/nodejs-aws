@@ -10,7 +10,7 @@ Copy and paste in EC2 user data
 #!/bin/bash
 apt-get update -y
 apt-get install nodejs npm -y
-git clone https://github.com/iwilliam317/nodejs-bootstrap.git
+git clone https://github.com/iwilliam317/nodejs-aws.git
 cd nodejs-bootstrap
 npm install
 npm start
