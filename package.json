@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha --timeout 2000 --exit",
-    "start": "nodemon src/index.js"
+    "start": "nodemon src/app.js"
   },
   "dependencies": {
     "chai": "^4.2.0",
